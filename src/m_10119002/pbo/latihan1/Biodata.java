@@ -9,7 +9,7 @@ package m_10119002.pbo.latihan1;
  *
  * @author
  * NAMA     : Firman Sahita
- * KELAS    : PBO1
+ * KELAS    : IF-1
  * NIM      : 10119002
  * Deskripsi Program : Program ini berisi program untuk menampilkan
  * jenis-jenis tipe data bilangan bulat
