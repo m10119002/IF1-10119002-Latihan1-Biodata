@@ -21,7 +21,7 @@ public class Biodata {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic here2
         
         System.out.println("BIODATA ROCKSTAR" + "\n" + "---------------------");
         System.out.println("NAMA\t\t: Rizky Adam Kurniawan");
